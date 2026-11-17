@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="SoulPMC">
+  <defs><clipPath id="oc"><circle cx="100" cy="100" r="75"/></clipPath></defs>
+  <circle cx="100" cy="100" r="75" fill="#F2B544"/>
+  <path clip-path="url(#oc)" d="M0 120q50-30 100 0t100 0v80H0z" fill="#2E6F96"/>
+  <circle cx="100" cy="100" r="84" fill="none" stroke="#0F3A57" stroke-width="32"/>
+</svg>
